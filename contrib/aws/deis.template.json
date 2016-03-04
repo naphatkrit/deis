@@ -36,6 +36,7 @@
       "Type" : "String",
       "Default" : "m3.large",
       "AllowedValues" : [
+          "t2.large",
         "m3.medium",
         "m3.large",
         "m3.xlarge",
